@@ -1,0 +1,25 @@
+{
+  "_from": "@akuma/exception-action-protocol@1.0.0",
+  "_id": "@akuma/exception-action-protocol@1.0.0",
+  "_inBundle": false,
+  "_location": "/@akuma/exception-action-protocol",
+  "_spec": "1.3.5",
+  "contributors": [
+    {
+      "name": "Julio Contreras",
+      "url": "https://github.com/julioacontreras"
+    }
+  ],
+  "dependencies": {},
+  "description": "Exception error to action protocol",
+  "license": "MIT",
+  "main": "",
+  "name": "@akuma/exception-action-protocol",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioacontreras/exception-action-protocol.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "version": "1.0.0"
+}
